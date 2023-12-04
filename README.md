@@ -11,7 +11,7 @@
 - Docker (optional, for running the application in a Docker container)
 
 **Local Setup**
-
+- Use git clone  https://github.com/AyatoShirayouki/CSV_Score_Ranking to clone the project repository to your local machine.
 - Navigate to the project directory: cd [project-directory].
 - Install Dependencies
 - Run npm install to install the required Node.js modules.
